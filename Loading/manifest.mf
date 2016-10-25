@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: net.nortlam.load
+OpenIDE-Module-Layer: net/nortlam/load/layer.xml
+OpenIDE-Module-Localizing-Bundle: net/nortlam/load/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

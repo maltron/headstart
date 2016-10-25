@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="net.nortlam.generator">
+    <module_version install_time="1477358100127" last="true" origin="installer" specification_version="1.0">
+        <file crc="2793131096" name="config/Modules/net-nortlam-generator.xml"/>
+        <file crc="3214071928" name="modules/ext/Generator2.jar"/>
+        <file crc="1304745590" name="modules/ext/velocity-1.7-dep.jar"/>
+        <file crc="3200881551" name="modules/ext/velocity-1.7.jar"/>
+        <file crc="165081387" name="modules/net-nortlam-generator.jar"/>
+    </module_version>
+</module>

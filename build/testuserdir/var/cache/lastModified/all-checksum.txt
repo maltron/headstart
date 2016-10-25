@@ -1,0 +1,9 @@
+java/ide/netbeans/8/platform=1476724424000
+cluster.Dropbox/Projects/CRUDMaker/HeadStart/build/cluster=1477358100000
+cluster.java/ide/netbeans/8/platform=1476724424000
+user=1477358100000
+crc=7
+locale=en_US
+branding=headstart
+java.version=1.8.0_102
+java.vm.version=25.102-b14

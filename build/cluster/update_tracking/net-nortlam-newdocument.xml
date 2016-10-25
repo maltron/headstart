@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="net.nortlam.newdocument">
+    <module_version install_time="1477358100412" last="true" origin="installer" specification_version="1.0">
+        <file crc="3864466925" name="config/Modules/net-nortlam-newdocument.xml"/>
+        <file crc="2338595634" name="modules/net-nortlam-newdocument.jar"/>
+    </module_version>
+</module>

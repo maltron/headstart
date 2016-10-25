@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="net.nortlam.save">
+    <module_version install_time="1477358100482" last="true" origin="installer" specification_version="1.0">
+        <file crc="1999115356" name="config/Modules/net-nortlam-save.xml"/>
+        <file crc="326275776" name="modules/net-nortlam-save.jar"/>
+    </module_version>
+</module>

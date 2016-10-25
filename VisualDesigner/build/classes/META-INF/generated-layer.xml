@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="net_nortlam_visual">
+                <file name="EntityScene" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--net.nortlam.visual.EntitySceneTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//net.nortlam.visual//EntityScene//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="net">
+                <folder name="nortlam">
+                    <folder name="visual">
+                        <file name="EntitySceneTopComponent">
+                            <!--net.nortlam.visual.EntitySceneTopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//net_nortlam_visual/EntityScene.instance"/>
+                        </file>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="net_nortlam_visual">
+                <file name="EntityScene.instance">
+                    <!--net.nortlam.visual.EntitySceneTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="net.nortlam.visual.EntitySceneTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="net.nortlam.visual.EntitySceneTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

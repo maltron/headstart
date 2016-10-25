@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+
+    <folder name="Actions">
+        <folder name="Save">
+            <file name="net-nortlam-save-SavingAction.instance">
+                <attr name="delegate" methodvalue="org.openide.awt.Actions.inject"/>
+                <attr name="displayName" bundlevalue="net.nortlam.save.Bundle#CTL_Save"/>
+                <attr name="injectable" stringvalue="net.nortlam.save.SavingAction"/>
+                <attr name="instanceCreate" methodvalue="org.openide.awt.Actions.context"/>
+                <attr name="noIconInMenu" boolvalue="false"/>
+                <attr name="selectionType" stringvalue="EXACTLY_ONE"/>
+                <attr name="iconBase" stringvalue="org/openide/resources/actions/save.png"/>
+                <attr name="type" stringvalue="net.nortlam.visual.EntityScene"/>
+            </file>
+        </folder>
+    </folder>
+    
+    <folder name="Menu">
+        <folder name="File">
+            <file name="net-nortlam-save-SavingAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Save/net-nortlam-save-SavingAction.instance"/>
+                <attr name="position" intvalue="1500"/>
+            </file>
+            <file name="org-openide-actions-SaveAction.shadow_hidden"/>
+            <file name="org-openide-actions-SaveAllAction.shadow_hidden"/>
+            <file name="org-openide-actions-SaveAsAction.shadow_hidden"/>
+        </folder>
+    </folder>
+
+</filesystem>

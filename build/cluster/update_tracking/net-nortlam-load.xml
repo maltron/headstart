@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="net.nortlam.load">
+    <module_version install_time="1477358100298" last="true" origin="installer" specification_version="1.0">
+        <file crc="1689045250" name="config/Modules/net-nortlam-load.xml"/>
+        <file crc="2224917057" name="modules/net-nortlam-load.jar"/>
+    </module_version>
+</module>

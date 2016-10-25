@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: net.nortlam.generator
+OpenIDE-Module-Localizing-Bundle: net/nortlam/generator/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

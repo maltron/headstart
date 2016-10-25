@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="net.nortlam.visual">
+    <module_version install_time="1477358100232" last="true" origin="installer" specification_version="1.0">
+        <file crc="3174518567" name="config/Modules/net-nortlam-visual.xml"/>
+        <file crc="1679041063" name="modules/net-nortlam-visual.jar"/>
+    </module_version>
+</module>
